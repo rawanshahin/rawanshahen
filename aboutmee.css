@@ -1,0 +1,38 @@
+body {
+padding-left: =80px;
+background: linear-gradient(to bottom, #33ccff 30%, #666699 70%);
+}
+h1{
+
+  text-align:center;
+  border-style: double;
+  border-width:5px;
+  border-spacing: 5px;
+  border-radius:10px;
+  border-color: #737373;
+padding: 1px;
+}
+h1,h2 {
+  font-family: Comic Sans MS;
+  color:black;
+}
+b {
+  color:#7a00cc;
+    font-family: Comic Sans MS;
+}
+ul,ol {
+    font-family: Comic Sans MS;
+}
+.a1{
+    font-family: Comic Sans MS;
+
+}
+a {
+
+  color:#ffff33;
+
+}
+img {
+  width:200px;
+  height: 200px;
+}
